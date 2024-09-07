@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heet Dudhwala</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<image align="right" alt="coding" width="350" src="https://imgs.search.brave.com/jVw0EGQ5GfzO3kLzcGcBjQTjKhy5OBVQ7m4xaCd7sYo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL1IwM3pX/djVwMW9OU1FkOTFF/UC9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/bjVzbzFxaDhhNHpu/eWI1bGFudDdkcHI0/cDFrYmI2emp4bnd2/a2I2aSZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.jpeg">
+<image align="right" alt="coding" width="350" src="[https://imgs.search.brave.com/jVw0EGQ5GfzO3kLzcGcBjQTjKhy5OBVQ7m4xaCd7sYo/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhL1IwM3pX/djVwMW9OU1FkOTFF/UC9naXBoeS5naWY_/Y2lkPTc5MGI3NjEx/bjVzbzFxaDhhNHpu/eWI1bGFudDdkcHI0/cDFrYmI2emp4bnd2/a2I2aSZlcD12MV9n/aWZzX3NlYXJjaCZy/aWQ9Z2lwaHkuZ2lm/JmN0PWc.jpeg"](https://camo.githubusercontent.com/9267ada924842c2b88a5b1a1fda2c1f31166943cc4be25979658961fe2760ced/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d65636630356534376b7a766533396d357972627676623670677665636c30646175766c347234376832657234626c65692665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67)>
 
 - 🔭 I’m currently working on **MERN Stack**
 

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Developement**
 
-- 👯 I’m looking to collaborate on **Development Projects**
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 📫 How to reach me **heetdudhwala848@gmail.com**
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heet Dudhwala</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heet2604" alt="heet2604" /></a> </p>
+
 
 - 🔭 I’m currently working on **MERN Stack**
 
